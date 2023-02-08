@@ -14,6 +14,7 @@ I am a 4th year college student with experience in multiple programming language
     <li>MongoDB</li>
     <li>Express</li>
     <li>ReactJS</li>
+    <li>NextJS</li>
     <li>Nodejs</li>
     <li>Redux</li>
     <li>MaterialUI</li>
