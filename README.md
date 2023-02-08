@@ -24,6 +24,7 @@ I am a 4th year college student with experience in multiple programming language
 <h2>Tools</h2>
   <ul>
     <li>Visual Studio Code</li>
+    <li>PyCharm</li>
     <li>Postman</li>
     <li>Git</li>
     <li>Sony Vegas Pro</li>
