@@ -18,7 +18,6 @@ I am a 4th year college student with experience in multiple programming language
     <li>Nodejs</li>
     <li>Redux</li>
     <li>MaterialUI</li>
-    <li>Bootstrap</li>
     <li>MySQL</li>
     <li>REST API</li>
   </ul>
