@@ -29,7 +29,7 @@ I am a 4th year college student with experience in multiple programming language
     <li>PyCharm</li>
     <li>Postman</li>
     <li>Git</li>
-    <li>Sony Vegas Pro</li>
+    <li>QT Designer</li>
   </ul>
   
  <h2>Past Projects</h2>
