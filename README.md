@@ -20,6 +20,8 @@ I am a 4th year college student with experience in multiple programming language
     <li>MaterialUI</li>
     <li>MySQL</li>
     <li>REST API</li>
+    <li>Microsoft SQL</li>
+    <li>Django</li>
   </ul>
 <h2>Tools</h2>
   <ul>
