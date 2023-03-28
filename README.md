@@ -14,13 +14,14 @@ I am a 4th year college student with experience in multiple programming language
     <li>MongoDB</li>
     <li>Express</li>
     <li>ReactJS</li>
-    <li>NextJS</li>
     <li>Nodejs</li>
+    <li>NextJS</li>
     <li>Redux</li>
-    <li>MaterialUI</li>
+    <li>Material UI</li>
     <li>MySQL</li>
-    <li>REST API</li>
+    <li>PosgreSQL</>
     <li>Microsoft SQL</li>
+    <li>REST API</li>
     <li>Django</li>
   </ul>
 <h2>Tools</h2>
