@@ -35,7 +35,7 @@ I am a 4th year college student with experience in multiple programming language
   
  <h2>Past Projects</h2>
    <ul>
-  <li><a href="https://inventory-system-fe.vercel.app/">Inventory System</a></li>
+  <li><a href="https://inventory-system-fe.vercel.app/" target="_blank">Inventory System</a></li>
    </ul>
 
 <h3>Contact</h3>
