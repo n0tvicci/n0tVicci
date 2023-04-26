@@ -17,6 +17,7 @@ I am a 4th year college student with experience in multiple programming language
     <li>Nodejs</li>
     <li>NextJS</li>
     <li>Redux</li>
+    <li>Zustand</li>
     <li>Material UI</li>
     <li>MySQL</li>
     <li>PosgreSQL</>
