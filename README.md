@@ -19,6 +19,7 @@ I am a 4th year college student with experience in multiple programming language
     <li>Redux</li>
     <li>Zustand</li>
     <li>Material UI</li>
+  <li>Tailwind CSS</li>
     <li>MySQL</li>
     <li>PosgreSQL</>
     <li>Microsoft SQL</li>
@@ -37,6 +38,11 @@ I am a 4th year college student with experience in multiple programming language
  <h2>Past Projects</h2>
    <ul>
   <li><a href="https://inventory-system-fe.vercel.app/" target="_blank">Inventory System</a></li>
+  <li><a href="https://chat-app-sable-gamma.vercel.app/login" target="_blank">Chat App</a></li>
+  <li><a href="https://pointsprizes.vercel.app/" target="_blank">Reward Site</a></li>
+  <li><a href="https://pointsprizes.vercel.app/adminlogin" target="_blank">Reward Site - Admin Dashboard</a></li>
+  <li><a href="https://youtube-converter-ten.vercel.app/" target="_blank">Youtube Converter</a></li>
+  <li><a href="https://github.com/n0tvicci/mongodb-boilerplate" target="_blank">Backend Boilerplate</a></li>
    </ul>
 
 <h3>Contact</h3>
