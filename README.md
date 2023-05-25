@@ -1,6 +1,6 @@
 ### Hi I'm JM 👋
 
-I am a 4th year college student with experience in multiple programming languages and a variety of web development technologies. My expertise includes Java, C++, Javascript, and Python, and I have a strong background in web development using MongoDB, Express, ReactJS, Nodejs, Redux, MaterialUI, Bootstrap, and REST API. I am also comfortable using tools like Visual Studio Code, Postman, Git, and Sony Vegas Pro. If you are looking for a developer who is passionate about coding and creating great software or website, I would love to hear from you!
+I'm a fresh graduate from Bulacan State University - Bustos Campus with skills in Java, C++, JavaScript, Python, and web development tech stacks like MongoDB, Express, ReactJS, Node.js, and more. I'm proficient in tools like Visual Studio Code, PyCharm, Postman, Git, and QT Designer. Eager to apply my skills and contribute to real-world projects.
 
 <h2>Programming languages</h2>
   <ul>
