@@ -5,7 +5,6 @@ I'm a fresh graduate from Bulacan State University - Bustos Campus with skills i
 <h2>Programming languages</h2>
   <ul>
     <li>Java</li>
-    <li>C++</li>
     <li>Javascript</li>
     <li>Python</li>
   </ul>
@@ -21,10 +20,8 @@ I'm a fresh graduate from Bulacan State University - Bustos Campus with skills i
     <li>Material UI</li>
   <li>Tailwind CSS</li>
     <li>MySQL</li>
-    <li>PosgreSQL</>
     <li>Microsoft SQL</li>
     <li>REST API</li>
-    <li>Django</li>
   </ul>
 <h2>Tools</h2>
   <ul>
@@ -32,7 +29,6 @@ I'm a fresh graduate from Bulacan State University - Bustos Campus with skills i
     <li>PyCharm</li>
     <li>Postman</li>
     <li>Git</li>
-    <li>QT Designer</li>
   </ul>
   
  <h2>Past Projects</h2>
