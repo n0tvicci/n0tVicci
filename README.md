@@ -37,6 +37,7 @@ I'm a fresh graduate from Bulacan State University - Bustos Campus with skills i
   <li><a href="https://chat-app-sable-gamma.vercel.app/login" target="_blank">Chat App</a></li>
   <li><a href="https://pointsprizes.vercel.app/" target="_blank">Reward Site</a></li>
   <li><a href="https://pointsprizes.vercel.app/adminlogin" target="_blank">Reward Site - Admin Dashboard</a></li>
+  <li><a href="https://todo-list-8x9zwjg65-growmorebeard.vercel.app/" target="_blank">Todo App</a></li>
   <li><a href="https://youtube-converter-ten.vercel.app/" target="_blank">Youtube Converter</a></li>
   <li><a href="https://github.com/n0tvicci/mongodb-boilerplate" target="_blank">Backend Boilerplate</a></li>
    </ul>
