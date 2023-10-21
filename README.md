@@ -4,7 +4,6 @@ I'm a fresh graduate from Bulacan State University - Bustos Campus with skills i
 
 <h2>Programming languages</h2>
   <ul>
-    <li>Java</li>
     <li>Javascript</li>
     <li>Python</li>
   </ul>
